@@ -13,3 +13,6 @@
 
 <h2>Taylor & Francis Book Chapter </h2>
 <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003142751-4/clinical-decision-support-systems-computational-intelligence-healthcare-industries-swapnil-singh-ameyaa-biwalkar-vidhi-vazirani">Clinical Decision Support Systems and Computational Intelligence for Healthcare Industries</a><br>
+
+<h2>Springer</h2>
+<a href="https://link.springer.com/chapter/10.1007/978-981-19-5443-6_42">A Proposed System for Understanding the Consumer Opinion of a Product Using Sentiment Analysis</a><br>
