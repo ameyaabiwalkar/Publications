@@ -10,3 +10,6 @@
 
 <h2>Taylor & Francis Journal Web of Science </h2>
 <a href="https://www.tandfonline.com/doi/abs/10.1080/09720529.2020.1721866">Video security against deepfakes and other forgeries</a><br>
+
+<h2>Taylor & Francis Book Chapter </h2>
+<a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003142751-4/clinical-decision-support-systems-computational-intelligence-healthcare-industries-swapnil-singh-ameyaa-biwalkar-vidhi-vazirani">Clinical Decision Support Systems and Computational Intelligence for Healthcare Industries</a><br>
