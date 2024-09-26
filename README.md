@@ -16,3 +16,4 @@
 
 <h2>Springer</h2>
 <a href="https://link.springer.com/chapter/10.1007/978-981-19-5443-6_42">A Proposed System for Understanding the Consumer Opinion of a Product Using Sentiment Analysis</a><br>
+<a href="https://link.springer.com/article/10.1007/s11042-024-19888-0"> Beyond boundaries: Unifying classification and segmentation in wildfire detection systems</a><br>
